@@ -6,3 +6,5 @@ MySQL study materials to help better understand how to work with SQL DB
 - [PostgreSQL](https://www.w3schools.com/postgresql/index.php) - PostgreSQL tutorial page by w3school
 
 ![image](https://github.com/Guli0702/MySQL-Study-Materials/assets/138679683/98d21e68-8cd1-444a-82fc-ff796915e03c)
+
+![image](https://github.com/Guli0702/MySQL-Study-Materials/assets/138679683/1dc29cb0-8df7-4bc1-9967-051ab4eeab3c)
